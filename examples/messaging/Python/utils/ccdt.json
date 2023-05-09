@@ -1,0 +1,17 @@
+{
+ "channel": [
+  {
+   "name": "CLOUD.APP.SVRCONN",
+   "clientConnection": {
+    "connection": [
+     {
+      "host": "qm3-591c.qm.eu-gb.mq.appdomain.cloud",
+      "port": 32707
+     }
+    ],
+    "queueManager": "QM3"
+   },
+   "type": "clientConnection"
+  }
+ ]
+}
